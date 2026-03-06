@@ -56,5 +56,21 @@ Subject: [DHKHTN-CSTN]
     - default là False
     - Là kết quả của những phép so sánh ==, !=,..
 
-### 2.3. Hằng 
+### 2.3. Hằng(literal), biến và biểu thức(variable)
+
+## 3. Nhập, xuất dữ liệu với console
+
+- Nhập từ bàn phím thì kêt qủa luôn luôn là kiểu chuỗi -> phải chuyển đổi kiểu dữ liệu
+- print thì nên dùng f'
+
+## 4. Cấu trúc điều khiển
+- 3 cấu trúc chính
+  - rẽ nhánh
+    - rẽ theo đk logic (if..else)
+        - rẽ 2 nhánh
+        - rẻ nhiều nhánh
+    - rẽ theo giá trị của 1 biến (switch case)
+  - cấu trúc lặp
+  - cấu trúc nhảy (break, continue,..)
+
 
