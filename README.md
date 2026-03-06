@@ -50,5 +50,11 @@ Subject: [DHKHTN-CSTN]
     ```
   - toán tử: toán tử + nối 2 chuỗi
 - Kiểu ngày giờ (datetime)
+  - Khi chuyển từ ngày -> chuỗi phải theo yyyymmdd
+- Kiểu luận lý (boolean)
+    - True, False
+    - default là False
+    - Là kết quả của những phép so sánh ==, !=,..
 
+### 2.3. Hằng 
 
