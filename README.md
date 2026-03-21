@@ -63,11 +63,17 @@
 
 - Quy nạp toán học là một phương pháp chứng minh mệnh đề đúng với mọi số tự nhiên. ∀n∈N,p(n)
   - tức là: với mọi n tự nhiên, mệnh đề p(n) đều đúng.
+  - quy nạp thường dùng để chứng minh một công thức tường minh là đúng.
+<img width="548" height="335" alt="Ảnh màn hình 2026-03-22 lúc 03 02 42" src="https://github.com/user-attachments/assets/cf098d54-209f-4067-93c2-92a87509d078" />
 
 ### Truy hồi, đệ quy
 
 - Đệ quy = quay lại gọi chính mình
 - Truy hồi = số sau tính từ số trước
+- Hệ thức truy hồi
+  - Hệ thức truy hồi là công thức cho biết số hạng sau được tính từ các số hạng trước.
+  - truy hồi cho bạn cách sinh dãy
+<img width="543" height="158" alt="Ảnh màn hình 2026-03-22 lúc 02 57 39" src="https://github.com/user-attachments/assets/2f3d92df-a623-47b4-b5a9-1f3d2b824a9a" />
 
 ### Đọc các phát biểu toán học kiểu ε-δ
 
@@ -92,7 +98,3 @@
 
 ---
 
-### Hệ thức truy hồi
-- Hệ thức truy hồi là công thức cho biết số hạng sau được tính từ các số hạng trước.
-
-<img width="543" height="158" alt="Ảnh màn hình 2026-03-22 lúc 02 57 39" src="https://github.com/user-attachments/assets/2f3d92df-a623-47b4-b5a9-1f3d2b824a9a" />
