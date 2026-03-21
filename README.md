@@ -76,3 +76,16 @@
 - Với mọi mức sai số đầu ra ε>0, ta luôn tìm được một mức sai số đầu vào δ>0 sao cho với mọi y, nếu y cách x nhỏ hơn δ, thì f(y) cách f(x) nhỏ hơn ε.
 <img width="740" height="160" alt="Ảnh màn hình 2026-03-22 lúc 02 44 19" src="https://github.com/user-attachments/assets/f10b2487-1603-4cce-b553-97e5ddd08a70" />
 
+### Dãy và ký hiệu
+
+- Số hạng tổng quát là công thức cho biết số hạng thứ n là bao nhiêu.
+<img width="428" height="306" alt="Ảnh màn hình 2026-03-22 lúc 02 50 22" src="https://github.com/user-attachments/assets/bed90916-222f-4eda-b689-8bf4e63a7c1f" />
+- Ký hiệu tổng ∑
+<img width="521" height="206" alt="Ảnh màn hình 2026-03-22 lúc 02 51 29" src="https://github.com/user-attachments/assets/b087031b-28c5-424d-aedc-1adc3cc86098" />
+
+- Ký hiệu tích ∏
+<img width="474" height="200" alt="Ảnh màn hình 2026-03-22 lúc 02 52 22" src="https://github.com/user-attachments/assets/e605113a-9526-431a-87f1-6ef4f8a66204" />
+
+- Dạng truy hồi của tổng và tích
+<img width="318" height="47" alt="Ảnh màn hình 2026-03-22 lúc 02 55 04" src="https://github.com/user-attachments/assets/a450c2b0-c452-46e8-bfd3-c7a187aa610f" />
+
