@@ -59,8 +59,10 @@
 
 <img width="495" height="161" alt="Ảnh màn hình 2026-03-21 lúc 22 44 03" src="https://github.com/user-attachments/assets/ab345e9b-5f66-491e-932d-21f6863494dd" />
 
-
 ### Quy nạp toán học
+
+- Quy nạp toán học là một phương pháp chứng minh mệnh đề đúng với mọi số tự nhiên. ∀n∈N,p(n)
+  - tức là: với mọi n tự nhiên, mệnh đề p(n) đều đúng.
 
 ### Truy hồi, đệ quy
 
