@@ -66,5 +66,13 @@
 
 ### Truy hồi, đệ quy
 
+- Đệ quy = quay lại gọi chính mình
+- Truy hồi = số sau tính từ số trước
+
 ### Đọc các phát biểu toán học kiểu ε-δ
+
+<img width="685" height="64" alt="Ảnh màn hình 2026-03-22 lúc 02 42 54" src="https://github.com/user-attachments/assets/73653640-85fb-4187-a888-f9740908f1c2" />
+
+- Với mọi mức sai số đầu ra ε>0, ta luôn tìm được một mức sai số đầu vào δ>0 sao cho với mọi y, nếu y cách x nhỏ hơn δ, thì f(y) cách f(x) nhỏ hơn ε.
+<img width="740" height="160" alt="Ảnh màn hình 2026-03-22 lúc 02 44 19" src="https://github.com/user-attachments/assets/f10b2487-1603-4cce-b553-97e5ddd08a70" />
 
