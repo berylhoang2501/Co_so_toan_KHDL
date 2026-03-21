@@ -29,7 +29,7 @@
   
 ### Phủ định lượng từ
 - ¬ là ký hiệu phủ định trong logic.
-- > phủ định thành ≤
+-  > phủ định thành ≤
 - < phủ định thành ≥
 - ≥ phủ định thành <
 - ≤ phủ định thành >
