@@ -137,7 +137,17 @@ ___
   
 - Nói đơn giản: lấy 2 phần tử x,y kiểm tra xem chúng có thỏa một điều kiện nào đó không
   - Nếu có, ta nói: xRy
-  - nghĩa là x có quan hệ với y, 
+  - nghĩa là x có quan hệ với y,
+ 
+- **Tính chất của quan hệ**
+<img width="385" height="382" alt="Ảnh màn hình 2026-03-22 lúc 03 49 59" src="https://github.com/user-attachments/assets/bba62b83-b31a-496a-9439-7b93e3dd736b" />
+
+  - Quan hệ tương đương
+    <img width="455" height="208" alt="Ảnh màn hình 2026-03-22 lúc 03 53 10" src="https://github.com/user-attachments/assets/7d0a05e9-1014-4d13-9fdb-812dec82df80" />
+    <img width="437" height="107" alt="Ảnh màn hình 2026-03-22 lúc 03 54 29" src="https://github.com/user-attachments/assets/0a16ea07-e325-4c81-a9a7-9dccfb9bc28a" />
+
+  - Quan hệ thứ tự
+    <img width="374" height="61" alt="Ảnh màn hình 2026-03-22 lúc 03 54 43" src="https://github.com/user-attachments/assets/44b75851-aa57-4ddd-88d9-179a6e44d2e2" />
 
 - **Tích Descartes X×X**
 
