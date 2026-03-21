@@ -98,3 +98,34 @@ ___
 
 ___
 
+### Hệ cơ số
+
+- Hệ cơ số là cách biểu diễn số bằng các “chữ số” và lũy thừa của một số gốc.
+- Hệ thập phân là cơ số 10. ví dụ số 2026
+<img width="384" height="45" alt="Ảnh màn hình 2026-03-22 lúc 03 05 53" src="https://github.com/user-attachments/assets/056b5345-4ac3-470e-951e-207f9ac39a77" />
+
+- Biểu diễn số theo cơ số p
+<img width="587" height="210" alt="Ảnh màn hình 2026-03-22 lúc 03 09 34" src="https://github.com/user-attachments/assets/04370d12-62f6-4dd2-9a47-35e83662f500" />
+
+- Phép chia Euclid
+<img width="598" height="266" alt="Ảnh màn hình 2026-03-22 lúc 03 11 02" src="https://github.com/user-attachments/assets/a30ec8bd-ab7b-4591-8d0f-78b93ac204fb" />
+
+- Modulo nghĩa là phần dư khi chia n cho p. ví dụ 23 mod 5 = 3 vì 23 = 5 * 4 + 3
+- đổi cơ số dựa trên chia liên tiếp lấy dư
+<img width="300" height="174" alt="Ảnh màn hình 2026-03-22 lúc 03 13 36" src="https://github.com/user-attachments/assets/85685336-26b3-4114-9fde-609f0f27638a" />
+
+### Đại số hỗ trợ
+
+- Rút gọn biểu thức (cộng trừ hạng đồng dạng, đặt nhân tử chung, khai triển, quy đồng mẫu, rút gọn phân thức)
+- Lũy thừa
+  - Cùng cơ số, nhân thì cộng số mũ, Chia thì trừ số mũ
+<img width="169" height="44" alt="Ảnh màn hình 2026-03-22 lúc 03 16 21" src="https://github.com/user-attachments/assets/e534296d-26cf-4a97-bd37-6f82bce0a32c" />
+- Căn thức
+<img width="446" height="290" alt="Ảnh màn hình 2026-03-22 lúc 03 17 43" src="https://github.com/user-attachments/assets/0c4a26f9-a0be-462c-9599-30e793154c98" />
+
+- Biến đổi công thức (khai triển, nhóm hạng, đặt nhân tử chung, thay biểu thức tương đương, đổi dạng để khớp mẫu cần chứng minh)
+
+
+
+
+
