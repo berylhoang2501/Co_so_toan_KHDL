@@ -116,6 +116,8 @@ ___
 - đổi cơ số dựa trên chia liên tiếp lấy dư
 <img width="300" height="174" alt="Ảnh màn hình 2026-03-22 lúc 03 13 36" src="https://github.com/user-attachments/assets/85685336-26b3-4114-9fde-609f0f27638a" />
 
+<img width="387" height="455" alt="Ảnh màn hình 2026-03-22 lúc 03 34 29" src="https://github.com/user-attachments/assets/d457d6f0-4316-46c5-ae42-52f0ace2b308" />
+
 ### Đại số hỗ trợ
 
 - Rút gọn biểu thức (cộng trừ hạng đồng dạng, đặt nhân tử chung, khai triển, quy đồng mẫu, rút gọn phân thức)
@@ -128,6 +130,37 @@ ___
 <img width="446" height="290" alt="Ảnh màn hình 2026-03-22 lúc 03 17 43" src="https://github.com/user-attachments/assets/0c4a26f9-a0be-462c-9599-30e793154c98" />
 
 - Biến đổi công thức (khai triển, nhóm hạng, đặt nhân tử chung, thay biểu thức tương đương, đổi dạng để khớp mẫu cần chứng minh)
+
+### Quan hệ 
+
+- Quan hệ là cách mô tả xem hai phần tử có “liên hệ” với nhau hay không. Ví dụ: “bé hơn hoặc bằng”, “là ước của”, “cùng số dư khi chia cho 3”
+  
+- Nói đơn giản: lấy 2 phần tử x,y kiểm tra xem chúng có thỏa một điều kiện nào đó không
+  - Nếu có, ta nói: xRy
+  - nghĩa là x có quan hệ với y, 
+
+- **Tích Descartes X×X**
+
+<img width="723" height="237" alt="Ảnh màn hình 2026-03-22 lúc 03 38 27" src="https://github.com/user-attachments/assets/8c7d8a73-4a37-4694-b641-98ab918686dd" />
+
+<img width="879" height="308" alt="Ảnh màn hình 2026-03-22 lúc 03 38 51" src="https://github.com/user-attachments/assets/5faf511b-b224-469f-ab7d-586e09f4d752" />
+
+- Một quan hệ trên X là một tập con của X×X là R⊆X×X
+<img width="737" height="252" alt="Ảnh màn hình 2026-03-22 lúc 03 41 54" src="https://github.com/user-attachments/assets/0da5ea89-a07e-4aaa-8e02-82a7c7969734" />
+
+---
+
+### 
+
+
+
+
+
+
+
+
+
+
 
 
 
