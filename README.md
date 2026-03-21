@@ -42,4 +42,27 @@
 - 2) với mọi x, p(x) đều sai
   
 ### Kết hợp logic (AND, OR)
+
+- p∧q: Mệnh đề p∧q chỉ đúng khi cả p và q đều đúng.
+- p∨q: Mệnh đề p∨q đúng khi ít nhất một trong hai đúng.
+- De Morgan là quy tắc: phủ định cả cụm thì đổi AND ↔ OR và phủ định từng phần bên trong.
+
+<img width="569" height="342" alt="Ảnh màn hình 2026-03-21 lúc 22 34 01" src="https://github.com/user-attachments/assets/cf2d8133-70f9-4c6b-9815-97428bc21e95" />
+
 ### Mệnh đề nhiều biến
+
+- p(x,y) hoặc p(x,y,z): Nghĩa là giá trị đúng/sai của mệnh đề phụ thuộc vào nhiều biến chứ không chỉ một biến.
+
+<img width="571" height="352" alt="Ảnh màn hình 2026-03-21 lúc 22 36 25" src="https://github.com/user-attachments/assets/64718a7a-19ea-4182-bf23-82ae255d87ca" />
+
+### Thứ tự lượng từ
+
+<img width="495" height="161" alt="Ảnh màn hình 2026-03-21 lúc 22 44 03" src="https://github.com/user-attachments/assets/ab345e9b-5f66-491e-932d-21f6863494dd" />
+
+
+### Quy nạp toán học
+
+### Truy hồi, đệ quy
+
+### Đọc các phát biểu toán học kiểu ε-δ
+
