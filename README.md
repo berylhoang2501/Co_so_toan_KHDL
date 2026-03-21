@@ -89,7 +89,9 @@
 
 - Dạng truy hồi của tổng và tích
 <img width="318" height="47" alt="Ảnh màn hình 2026-03-22 lúc 02 55 04" src="https://github.com/user-attachments/assets/a450c2b0-c452-46e8-bfd3-c7a187aa610f" />
+
 ---
+
 ### Hệ thức truy hồi
 - Hệ thức truy hồi là công thức cho biết số hạng sau được tính từ các số hạng trước.
 
