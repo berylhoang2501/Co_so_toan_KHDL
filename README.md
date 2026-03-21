@@ -1,5 +1,9 @@
 # Co_so_toan_KHDL
 
+```
+
+```
+
 > # Buổi 2:
 
 ### Mệnh đề là gì
@@ -13,10 +17,6 @@
 - Hàm mệnh đề: chưa biết đúng hay sai ngay, vì còn phụ thuộc vào biến. Hàm mệnh đề là câu chứa biến, chưa có giá trị đúng/sai cố định cho đến khi ta gán biến hoặc dùng lượng từ.
 
 <img width="567" height="225" alt="Ảnh màn hình 2026-03-21 lúc 22 02 19" src="https://github.com/user-attachments/assets/9e1f1098-8ffc-4fcd-9ce3-75be1c71cd40" />
-
-```
-
-```
 
 ### Lượng từ ∀, ∃
 - Lượng từ với mọi: ∀
@@ -76,6 +76,7 @@
 - Với mọi mức sai số đầu ra ε>0, ta luôn tìm được một mức sai số đầu vào δ>0 sao cho với mọi y, nếu y cách x nhỏ hơn δ, thì f(y) cách f(x) nhỏ hơn ε.
 <img width="740" height="160" alt="Ảnh màn hình 2026-03-22 lúc 02 44 19" src="https://github.com/user-attachments/assets/f10b2487-1603-4cce-b553-97e5ddd08a70" />
 
+---
 ### Dãy và ký hiệu
 
 - Số hạng tổng quát là công thức cho biết số hạng thứ n là bao nhiêu.
@@ -88,4 +89,8 @@
 
 - Dạng truy hồi của tổng và tích
 <img width="318" height="47" alt="Ảnh màn hình 2026-03-22 lúc 02 55 04" src="https://github.com/user-attachments/assets/a450c2b0-c452-46e8-bfd3-c7a187aa610f" />
+---
+### Hệ thức truy hồi
+- Hệ thức truy hồi là công thức cho biết số hạng sau được tính từ các số hạng trước.
 
+<img width="543" height="158" alt="Ảnh màn hình 2026-03-22 lúc 02 57 39" src="https://github.com/user-attachments/assets/2f3d92df-a623-47b4-b5a9-1f3d2b824a9a" />
