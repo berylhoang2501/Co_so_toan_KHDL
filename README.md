@@ -6,19 +6,19 @@
 
 > # Buổi 2:
 
-### Mệnh đề là gì
+### 1. Mệnh đề là gì
 
 - Nếu một câu có thể gán giá trị Đúng hoặc Sai, thì đó là mệnh đề.
 - Một mệnh đề không thể vừa đúng vừa sai cùng lúc.
 
-### Hàm mệnh đề p(x)
+### 2. Hàm mệnh đề p(x)
 
 - Mệnh đề: đã biết đúng hay sai.
 - Hàm mệnh đề: chưa biết đúng hay sai ngay, vì còn phụ thuộc vào biến. Hàm mệnh đề là câu chứa biến, chưa có giá trị đúng/sai cố định cho đến khi ta gán biến hoặc dùng lượng từ.
 
 <img width="567" height="225" alt="Ảnh màn hình 2026-03-21 lúc 22 02 19" src="https://github.com/user-attachments/assets/9e1f1098-8ffc-4fcd-9ce3-75be1c71cd40" />
 
-### Lượng từ ∀, ∃
+### 3. Lượng từ ∀, ∃
 - Lượng từ với mọi: ∀
   - ∀x∈A,p(x)
   - mọi x trong A đều thoả p(x), p(x) phải đúng với mọi phần tử trong tập A
@@ -27,7 +27,7 @@
     - có ít nhất 1 A làm cho p(x) đúng
     - ví dụ: ∃ x ∈ N, x^2=4. Câu này đúng, vì có x = 2.
   
-### Phủ định lượng từ
+### 4. Phủ định lượng từ
 - ¬ là ký hiệu phủ định trong logic.
 -  > phủ định thành ≤
 - < phủ định thành ≥
@@ -41,7 +41,7 @@
 - 1) tồn tại ít nhất 1 x sao cho p(x) sai
 - 2) với mọi x, p(x) đều sai
   
-### Kết hợp logic (AND, OR)
+### 5. Kết hợp logic (AND, OR)
 
 - p∧q: Mệnh đề p∧q chỉ đúng khi cả p và q đều đúng.
 - p∨q: Mệnh đề p∨q đúng khi ít nhất một trong hai đúng.
@@ -49,24 +49,24 @@
 
 <img width="569" height="342" alt="Ảnh màn hình 2026-03-21 lúc 22 34 01" src="https://github.com/user-attachments/assets/cf2d8133-70f9-4c6b-9815-97428bc21e95" />
 
-### Mệnh đề nhiều biến
+### 6. Mệnh đề nhiều biến
 
 - p(x,y) hoặc p(x,y,z): Nghĩa là giá trị đúng/sai của mệnh đề phụ thuộc vào nhiều biến chứ không chỉ một biến.
 
 <img width="571" height="352" alt="Ảnh màn hình 2026-03-21 lúc 22 36 25" src="https://github.com/user-attachments/assets/64718a7a-19ea-4182-bf23-82ae255d87ca" />
 
-### Thứ tự lượng từ
+### 7. Thứ tự lượng từ
 
 <img width="495" height="161" alt="Ảnh màn hình 2026-03-21 lúc 22 44 03" src="https://github.com/user-attachments/assets/ab345e9b-5f66-491e-932d-21f6863494dd" />
 
-### Quy nạp toán học
+### 8. Quy nạp toán học
 
 - Quy nạp toán học là một phương pháp chứng minh mệnh đề đúng với mọi số tự nhiên. ∀n∈N,p(n)
   - tức là: với mọi n tự nhiên, mệnh đề p(n) đều đúng.
   - quy nạp thường dùng để chứng minh một công thức tường minh là đúng.
 <img width="548" height="335" alt="Ảnh màn hình 2026-03-22 lúc 03 02 42" src="https://github.com/user-attachments/assets/cf098d54-209f-4067-93c2-92a87509d078" />
 
-### Truy hồi, đệ quy
+### 9. Truy hồi, đệ quy
 
 - Đệ quy = quay lại gọi chính mình
 - Truy hồi = số sau tính từ số trước
@@ -75,7 +75,7 @@
   - truy hồi cho bạn cách sinh dãy
 <img width="543" height="158" alt="Ảnh màn hình 2026-03-22 lúc 02 57 39" src="https://github.com/user-attachments/assets/2f3d92df-a623-47b4-b5a9-1f3d2b824a9a" />
 
-### Đọc các phát biểu toán học kiểu ε-δ
+### 10. Đọc các phát biểu toán học kiểu ε-δ
 
 <img width="685" height="64" alt="Ảnh màn hình 2026-03-22 lúc 02 42 54" src="https://github.com/user-attachments/assets/73653640-85fb-4187-a888-f9740908f1c2" />
 
@@ -83,7 +83,7 @@
 <img width="740" height="160" alt="Ảnh màn hình 2026-03-22 lúc 02 44 19" src="https://github.com/user-attachments/assets/f10b2487-1603-4cce-b553-97e5ddd08a70" />
 
 ___
-### Dãy và ký hiệu
+### 11. Dãy và ký hiệu
 
 - Số hạng tổng quát là công thức cho biết số hạng thứ n là bao nhiêu.
 <img width="428" height="306" alt="Ảnh màn hình 2026-03-22 lúc 02 50 22" src="https://github.com/user-attachments/assets/bed90916-222f-4eda-b689-8bf4e63a7c1f" />
@@ -99,7 +99,7 @@ ___
 
 ___
 
-### Hệ cơ số
+### 12. Hệ cơ số
 
 - Hệ cơ số là cách biểu diễn số bằng các “chữ số” và lũy thừa của một số gốc.
   
@@ -123,7 +123,7 @@ ___
 
 <img width="387" height="455" alt="Ảnh màn hình 2026-03-22 lúc 03 34 29" src="https://github.com/user-attachments/assets/d457d6f0-4316-46c5-ae42-52f0ace2b308" />
 
-### Đại số hỗ trợ
+### 13. Đại số hỗ trợ
 
 - Rút gọn biểu thức (cộng trừ hạng đồng dạng, đặt nhân tử chung, khai triển, quy đồng mẫu, rút gọn phân thức)
   
@@ -138,7 +138,7 @@ ___
 
 - Biến đổi công thức (khai triển, nhóm hạng, đặt nhân tử chung, thay biểu thức tương đương, đổi dạng để khớp mẫu cần chứng minh)
 
-### Quan hệ 
+### 14. Quan hệ 
 
 - Quan hệ là cách mô tả xem hai phần tử có “liên hệ” với nhau hay không. Ví dụ: “bé hơn hoặc bằng”, “là ước của”, “cùng số dư khi chia cho 3”
   
@@ -172,13 +172,13 @@ ___
 
 ---
 
-### Biểu diễn bằng đồ thị
+### 15. Biểu diễn bằng đồ thị
 
-#### Biểu diễn quan hệ bằng đồ thị
+#### 15.1. Biểu diễn quan hệ bằng đồ thị
 - Một quan hệ R trên tập X có thể được vẽ bằng đồ thị có hướng.
   <img width="475" height="170" alt="Ảnh màn hình 2026-03-22 lúc 03 57 43" src="https://github.com/user-attachments/assets/f3479aeb-f029-447a-b1e9-5b96ca31558e" />
 
-#### Loop
+#### 15.2. Loop
 <img width="405" height="198" alt="Ảnh màn hình 2026-03-22 lúc 03 58 26" src="https://github.com/user-attachments/assets/e768e939-6c63-4a37-9f10-c1b39d3bb1eb" />
 
 - đỉnh là phần tử
@@ -190,29 +190,29 @@ ___
 
 <img width="433" height="338" alt="Ảnh màn hình 2026-03-22 lúc 03 59 54" src="https://github.com/user-attachments/assets/03e5e1b6-f4b8-489b-85a5-658c5c9c061b" />
 
-### Cây và biểu thức
-#### Cây
+### 16. Cây và biểu thức
+#### 16.1. Cây
 - Cây là một cấu trúc gồm các nút nối với nhau theo kiểu phân nhánh.
 
 <img width="604" height="401" alt="Ảnh màn hình 2026-03-22 lúc 09 17 49" src="https://github.com/user-attachments/assets/96afd805-c0fa-4b5d-af9d-89eee882ec5b" />
 
 
-#### Cây nhị phân
+#### 16.2. Cây nhị phân
 
 - Cây nhị phân là cây mà mỗi nút có nhiều nhất 2 con: con trái, con phải. Không bắt buộc nút nào cũng phải có đủ 2 con, chỉ là tối đa 2 con.
 
 <img width="481" height="297" alt="Ảnh màn hình 2026-03-22 lúc 09 18 47" src="https://github.com/user-attachments/assets/726e8e34-ce40-4559-bc50-106b5caec41b" />
 
-#### Cây biểu thức
+#### 16.3. Cây biểu thức
 
 - Cây biểu thức là cây dùng để biểu diễn một biểu thức toán học.
 
 - Quy tắc: nút trong thường là toán tử, lá thường là toán hạng
 
-#### Operator / Operand
+#### 16.4. Operator / Operand
 
 
-### Stack
+### 17. Stack
 
 - Stack là một cấu trúc dữ liệu hoạt động theo nguyên tắc: vào sau ra trước. Tiếng Anh là: LIFO = Last In, First Out
 
