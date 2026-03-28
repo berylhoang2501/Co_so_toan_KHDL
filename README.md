@@ -251,14 +251,68 @@ ___
 
 - **Vector 0**: Vector 0 là phần tử đóng vai trò như số 0 trong phép cộng.
 
-### 3. Tổ hợp tuyến tính
+### 3. Ma trận cơ bản
+
+#### 3.1. Ma trận là gì?
+<img width="531" height="256" alt="Ảnh màn hình 2026-03-29 lúc 00 48 29" src="https://github.com/user-attachments/assets/b725a911-ec6a-4ce2-b6c2-2edd34d108f1" />
+
+**Kích thước ma trận**
+
+<img width="441" height="455" alt="Ảnh màn hình 2026-03-29 lúc 00 49 50" src="https://github.com/user-attachments/assets/fa269e36-10de-4304-a91d-165ec0b83bea" />
+
+<img width="423" height="228" alt="Ảnh màn hình 2026-03-29 lúc 00 50 47" src="https://github.com/user-attachments/assets/aa0fc02f-de7d-427d-aac4-f2c935bd9589" />
+
+- Hàng Là các phần tử nằm ngang.
+- Cột Là các phần tử nằm dọc.
+
+<img width="500" height="256" alt="Ảnh màn hình 2026-03-29 lúc 00 52 35" src="https://github.com/user-attachments/assets/6605192a-6391-415c-bab4-ae1bd3f0f375" />
+
+#### 3.2. Ma trận vuông
+
+<img width="424" height="432" alt="Ảnh màn hình 2026-03-29 lúc 00 53 16" src="https://github.com/user-attachments/assets/f0e5baf4-4328-49dd-8560-ced5e3a05d76" />
+
+<img width="462" height="391" alt="Ảnh màn hình 2026-03-29 lúc 00 54 53" src="https://github.com/user-attachments/assets/9c618f21-93b6-468a-92df-e952d58353c4" />
+
+#### 3.3. Ma trận đường chéo
+
+<img width="448" height="331" alt="Ảnh màn hình 2026-03-29 lúc 00 56 27" src="https://github.com/user-attachments/assets/cc854aa3-e84e-4753-90de-7f869a4fc8f1" />
+
+#### 3.4. Ma trận tam giác trên
+
+<img width="459" height="334" alt="Ảnh màn hình 2026-03-29 lúc 00 57 49" src="https://github.com/user-attachments/assets/85981489-f4cd-416a-9e1c-4f73aae39436" />
+
+#### 3.5. Ma trận tam giác dưới
+
+<img width="479" height="342" alt="Ảnh màn hình 2026-03-29 lúc 01 10 21" src="https://github.com/user-attachments/assets/e2056ae0-7a6c-4fe1-99a0-68d1a5a5c078" />
+
+#### 3.6. Ma trận đơn vị
+
+<img width="446" height="395" alt="Ảnh màn hình 2026-03-29 lúc 01 11 48" src="https://github.com/user-attachments/assets/a1177783-555c-4519-8e25-cff4a702173c" />
+
+#### 3.6. Quan hệ giữa các loại ma trận
+
+<img width="447" height="428" alt="Ảnh màn hình 2026-03-29 lúc 01 13 27" src="https://github.com/user-attachments/assets/8519e37c-a00e-4784-8669-2e40e27f4d31" />
+
+
+
+### 4. Tổ hợp tuyến tính
 
 <img width="497" height="279" alt="Ảnh màn hình 2026-03-28 lúc 22 41 49" src="https://github.com/user-attachments/assets/c8f8774a-f9e2-4212-9620-46ca30bdd8f2" />
 
 - Nói dễ hiểu, Tổ hợp tuyến tính là: lấy mỗi vector nhân với một số rồi cộng tất cả lại. Tức là chỉ dùng đúng 2 phép toán:
     - nhân vô hướng
     - cộng vector
-
+- Tổ hợp tuyến tính áp dụng được cho:
+    - bộ số
+    - hàm
+    - ma trận
+- Đây là nền để học:
+  - độc lập tuyến tính
+  - span
+  - cơ sở
+  - số chiều
+ 
+  
 
 
 
