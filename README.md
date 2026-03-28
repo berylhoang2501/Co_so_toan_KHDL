@@ -251,9 +251,13 @@ ___
 
 - **Vector 0**: Vector 0 là phần tử đóng vai trò như số 0 trong phép cộng.
 
+### 3. Tổ hợp tuyến tính
 
+<img width="497" height="279" alt="Ảnh màn hình 2026-03-28 lúc 22 41 49" src="https://github.com/user-attachments/assets/c8f8774a-f9e2-4212-9620-46ca30bdd8f2" />
 
-
+- Nói dễ hiểu, Tổ hợp tuyến tính là: lấy mỗi vector nhân với một số rồi cộng tất cả lại. Tức là chỉ dùng đúng 2 phép toán:
+    - nhân vô hướng
+    - cộng vector
 
 
 
