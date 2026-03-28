@@ -87,6 +87,7 @@ ___
 
 - Số hạng tổng quát là công thức cho biết số hạng thứ n là bao nhiêu.
 <img width="428" height="306" alt="Ảnh màn hình 2026-03-22 lúc 02 50 22" src="https://github.com/user-attachments/assets/bed90916-222f-4eda-b689-8bf4e63a7c1f" />
+
 - Ký hiệu tổng ∑
 <img width="521" height="206" alt="Ảnh màn hình 2026-03-22 lúc 02 51 29" src="https://github.com/user-attachments/assets/b087031b-28c5-424d-aedc-1adc3cc86098" />
 
