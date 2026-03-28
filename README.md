@@ -227,7 +227,7 @@ ___
 ---
 > # Buổi 3:
 
-### Hàm và ánh xạ
+### 1. Hàm và ánh xạ
 
 - Trong toán rời rạc, hàm hay ánh xạ là một quy tắc gán: mỗi phần tử của một tập này tới đúng một phần tử của một tập khác. f: A→B
   - Đọc là: f là một ánh xạ từ A đến B. Trong đó: A: tập đầu vào, B: tập đích
@@ -238,7 +238,7 @@ ___
 - Hàm ngược: 
 <img width="390" height="249" alt="Ảnh màn hình 2026-03-22 lúc 11 31 57" src="https://github.com/user-attachments/assets/a28c3d77-379c-449f-ae52-023fd1f1a80e" />
 
-### Không gian vector
+### 2. Không gian vector
 - Không gian vector là một tập hợp các phần tử gọi là vector, trong đó ta làm được 2 phép toán: cộng vector, nhân vector với một số (gọi là vô hướng) và các phép toán này phải thỏa một số quy tắc nhất định.
 
 <img width="415" height="198" alt="Ảnh màn hình 2026-03-22 lúc 11 34 42" src="https://github.com/user-attachments/assets/1695d8a6-3444-4cc3-9d56-8d9ba367e9e4" />
