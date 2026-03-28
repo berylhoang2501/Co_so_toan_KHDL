@@ -311,13 +311,33 @@ ___
   - span
   - cơ sở
   - số chiều
- 
+
+ ### 5. Ánh xạ tuyến tính
   
+- hàm / ánh xạ: nhận đầu vào, cho đầu ra
+- không gian vector: nơi ta cộng vector và nhân vector với số được
 
+- Bây giờ ghép hai thứ đó lại: -> Ánh xạ tuyến tính. Đó là một hàm giữa hai không gian vector nhưng có thêm điều kiện rất quan trọng:
+  - nó giữ được phép nhân vô hướng
+  - nó giữ được phép cộng, tức là nó không làm “hỏng” cấu trúc tuyến tính.
 
+**Cách kiểm tra một ánh xạ có tuyến tính không**
 
+<img width="412" height="364" alt="Ảnh màn hình 2026-03-29 lúc 02 44 23" src="https://github.com/user-attachments/assets/ce7f9626-46d2-4711-b848-9a1f052ad988" />
 
+**Mẹo kiểm tra cực nhanh: xem T(0)**
 
+<img width="335" height="153" alt="Ảnh màn hình 2026-03-29 lúc 02 45 32" src="https://github.com/user-attachments/assets/3428f866-8205-441b-8e27-84e1933bc108" />
+
+<img width="995" height="524" alt="Ảnh màn hình 2026-03-29 lúc 02 50 51" src="https://github.com/user-attachments/assets/d682acf8-3fd6-4220-8fd3-09058a91c5b8" />
+
+### 6. Liên hệ giữa hàm, vector, ma trận
+
+<img width="237" height="130" alt="Ảnh màn hình 2026-03-29 lúc 03 44 01" src="https://github.com/user-attachments/assets/a260bc97-56a8-48d0-bc4b-72b24c198352" />
+
+<img width="369" height="458" alt="Ảnh màn hình 2026-03-29 lúc 03 44 33" src="https://github.com/user-attachments/assets/394ce3a6-d2eb-403b-8de5-a2848f991947" />
+
+<img width="609" height="308" alt="Ảnh màn hình 2026-03-29 lúc 04 07 20" src="https://github.com/user-attachments/assets/86654344-dc75-4c93-b612-fdc9509935c8" />
 
 
 
