@@ -3,7 +3,7 @@
 ```
 
 ```
-
+--- 
 > # Buổi 2:
 
 ### 1. Mệnh đề là gì
@@ -340,6 +340,8 @@ ___
 <img width="609" height="308" alt="Ảnh màn hình 2026-03-29 lúc 04 07 20" src="https://github.com/user-attachments/assets/86654344-dc75-4c93-b612-fdc9509935c8" />
 
 
+--- 
+> # Buổi 5:
 
 
 
